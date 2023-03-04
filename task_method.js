@@ -184,10 +184,10 @@ function setVolumeBalok(panjang, lebar, tinggi) {
 }
 setVolumeBalok(10, 5, 10)
 
-function getvolumeBalok(){
+function getVolumeBalok(){
     return volumeBalok
 }
-console.log(getvolumeBalok())
+console.log(getVolumeBalok())
 
 // 18
 function setVolumeKubus(sisi) {
@@ -195,10 +195,10 @@ function setVolumeKubus(sisi) {
 }
 setVolumeKubus(10)
 
-function getvolumeKubus(){
+function getVolumeKubus(){
     return volumeKubus
 }
-console.log(getvolumeKubus())
+console.log(getVolumeKubus())
 
 // 19
 function setVolumeTabung(r, tinggi) {
@@ -206,10 +206,10 @@ function setVolumeTabung(r, tinggi) {
 }
 setVolumeTabung(10, 5)
 
-function getvolumeTabung(){
+function getVolumeTabung(){
     return volumeTabung
 }
-console.log(getvolumeTabung())
+console.log(getVolumeTabung())
 
 // 20
 function setVolumeKerucut(r, tinggi) {
@@ -217,7 +217,7 @@ function setVolumeKerucut(r, tinggi) {
 }
 setVolumeKerucut(10, 5)
 
-function getvolumeKerucut(){
+function getVolumeKerucut(){
     return volumeKerucut
 }
-console.log(getvolumeKerucut())
+console.log(getVolumeKerucut())
